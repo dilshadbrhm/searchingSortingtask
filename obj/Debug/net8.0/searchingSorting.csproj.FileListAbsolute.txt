@@ -1,0 +1,15 @@
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\searchingSorting\bin\Debug\net8.0\searchingSorting.exe
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\searchingSorting\bin\Debug\net8.0\searchingSorting.deps.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\searchingSorting\bin\Debug\net8.0\searchingSorting.runtimeconfig.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\searchingSorting\bin\Debug\net8.0\searchingSorting.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\searchingSorting\bin\Debug\net8.0\searchingSorting.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\searchingSorting\obj\Debug\net8.0\searchingSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\searchingSorting\obj\Debug\net8.0\searchingSorting.AssemblyInfoInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\searchingSorting\obj\Debug\net8.0\searchingSorting.AssemblyInfo.cs
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\searchingSorting\obj\Debug\net8.0\searchingSorting.csproj.CoreCompileInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\searchingSorting\obj\Debug\net8.0\searchingSorting.sourcelink.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\searchingSorting\obj\Debug\net8.0\searchingSorting.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\searchingSorting\obj\Debug\net8.0\refint\searchingSorting.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\searchingSorting\obj\Debug\net8.0\searchingSorting.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\searchingSorting\obj\Debug\net8.0\searchingSorting.genruntimeconfig.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\searchingSorting\obj\Debug\net8.0\ref\searchingSorting.dll
